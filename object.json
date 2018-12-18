@@ -1,0 +1,114 @@
+{
+    "rootHash": "b�_\u0013�!\u001a����݈�(��\u0001J�1:��\r<\\R\u001e",
+    "meta": {
+        "claimId": "t0kxda2073lv",
+        "hash": "\u001e� �B_�\u0010�\f\u0006�\"�x��Z\t��\u001d���\u000fs���\u0019<",
+        "totalVotes": 10,
+        "INDORSED": 8,
+        "FLAGGED": 2,
+        "claimStatus": "INDORSED",
+        "kind": "claim",
+        "level": 0
+    },
+    "children": [
+        {
+            "childHash": "\u001cہA���\u0019*\u0004��q\t)'s����u������ع�",
+            "children": [
+                {
+                    "childHash": "�_1ȍlpl�]�\u001f�/\u0004J�\\y����[�Nb\u000es{��",
+                    "children": [
+                        {
+                            "childHash": "a�3�G�zK\u0000�D��_&!QT}�!P���MM<`e�",
+                            "children": [
+                                {
+                                    "childHash": "�~�\u001b�)H��/@�\bwV��x�c|\u0011\nƺ}%7�\\��",
+                                    "children": []
+                                },
+                                {
+                                    "childHash": "\u001e� �B_�\u0010�\f\u0006�\"�x��Z\t��\u001d���\u000fs���\u0019<",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "childHash": "|wwg�/d�K�\u0010`!Q�Tĩ �r\u0011�\u0017F�)��y",
+                            "children": [
+                                {
+                                    "childHash": "G<�n�\u0004�2Sa�i�.���[�\u001d\u0016�\u001fM\tK2\u0002���",
+                                    "children": []
+                                },
+                                {
+                                    "childHash": "c\r��\u000f�]\u0005\u001a+\u0019��\f\u0003��O2F%����^(\u001b���\u0019",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "childHash": "�'��>_�m`L���?���N2L(��\\�\u000eǅҋ��",
+                    "children": [
+                        {
+                            "childHash": "@�¤<�QI�{n�ᵸ���6��W\u0002zo~7�\\_48",
+                            "children": [
+                                {
+                                    "childHash": ":k��\u001d���y�� \u0015)\u0013/\u0019}�\u0004 \u001d�V��%R\u0012��\u0006",
+                                    "children": []
+                                },
+                                {
+                                    "childHash": "O`�\u000b^_e\u0014[s?\r�b�8X�*\u001dTT�����Y\u0012\u0015vm",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "childHash": "��\"R�ڦ�V3�B$Gg����\u0006���A�]��\r�Ԇ",
+                            "children": [
+                                {
+                                    "childHash": ".*\tz2�\u000e��O�DA<����=L\u0019���(Ϻ��L6",
+                                    "children": []
+                                },
+                                {
+                                    "childHash": "�F���\u0010B��Pgq��\f�0�pI��es>����1��",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "childHash": "�W\u0014��\u001aX\\Xx��ݦt��P�����z�VpW�}S\u0001",
+            "children": [
+                {
+                    "childHash": "&��s�\u0013jձ�y�L���1�^�t��~�G��r��",
+                    "children": [
+                        {
+                            "childHash": "�2��.\\��n�o�8 �����&\u001e�굷&�ʇ�b�",
+                            "children": []
+                        },
+                        {
+                            "childHash": "\f\u000e�c} v#�H-�vwSmر�B�JWE\u0010�V��a�",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "childHash": "�,�4l�;�� �\nܯ�\u0010��`@�fV��2�'n�&�",
+                    "children": [
+                        {
+                            "childHash": "�ՄS\u001da\u000eT�:��\u000e��:]�kÇ\u0017���\r��\r��",
+                            "children": [
+                                {
+                                    "childHash": " ���m��Q�\u001d���ז�t\u0013��r\u000e(ټ<{�\u0006�+",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
